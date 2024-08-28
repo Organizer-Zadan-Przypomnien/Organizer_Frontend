@@ -2,7 +2,7 @@
   "name": "organizer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://twojanazwa.github.io/Organizer_Zadan_Przyponien", 
+  "homepage": "https://organizer-zadan-przypomnien.github.io/Organizer_Frontend/", 
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
